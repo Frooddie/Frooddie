@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Frooddie
 - 👀 I’m interested in coding in C# and coding in general
-- 🌱 I’m currently learning C# on a 2 year education @NBI Handelsakademin
+- 🌱 I’m currently on a 2 year education to become a System developer in regards to OOP @@NBI Handelsakademin
 - 📫 How to reach me: andreasson.freddie@gmail.com
 
 <!---
